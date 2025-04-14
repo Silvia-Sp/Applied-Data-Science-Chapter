@@ -1,3 +1,4 @@
+# Final Project
 This final project focuses on predicting whether the first stage of the Falcon 9 rocket will successfully land.
 SpaceX offers launches at around $62 million, compared to over $165 million by other providers—largely due to the ability to reuse the first stage.
 Accurately predicting landing success allows for cost forecasting, which can be valuable for alternative companies looking to compete with SpaceX for launch contracts.
